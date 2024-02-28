@@ -1,5 +1,5 @@
 {
-  "name": "3-build-with-ssg",
+  "name": "Meg Willis",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,11 +7,9 @@
     "start": "eleventy --serve"
   },
   "keywords": [],
-  "author": "Phil Hawksworth <phil@netlify.com>",
+  "author": "Meg Willis <meg3willis@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0",
-    "axios": "^0.19.2",
-    "dotenv": "^8.2.0"
+    "@11ty/eleventy": "^0.10.0"
   }
 }
