@@ -10,6 +10,6 @@
   "author": "Meg Willis <meg3willis@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^2.0.1"
   }
 }
