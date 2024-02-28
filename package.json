@@ -2,7 +2,6 @@
   "name": "3-build-with-ssg",
   "version": "1.0.0",
   "description": "",
-  "main": "vibe.js",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve"
